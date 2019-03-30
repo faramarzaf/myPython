@@ -1,4 +1,4 @@
 # myPython
 I share my python activities here...  
-From begining to mastered 
+From beginning to mastered 
 This will be continued always.
